@@ -3,7 +3,7 @@ require_once("core/Core.php");
 /**
 
 * Archivo encargado del registro, la instancia de la clase Core es solo para crear los selects de la edad
-* 
+* Pronto cambiado totalmente a views
 *
 **/
 $data = new Core();
